@@ -8,7 +8,7 @@ Instalación
 ## Pasos para instalar el proyecto
 1. Tenemos que entrar a el repositorio que esta en **Githud** en este repositorio estara el [Proyecto](https://github.com/GriionG/Productos), descargaremos la carpeta en formato .ZIP para que después lo descomprimamos. 
 
-![Desacarga](https://cdn.discordapp.com/attachments/876615087119548417/1079805535093801013/repositroia.png)
+![Desacarga](https://cdn.discordapp.com/attachments/876615087119548417/1127637356745330728/repositorio_.png)
 
 2. Una vez hayamos descargado el proyecto tendremos que mover el archivo descargado .ZIP a la carpeta **\xampp\htdocs** que se tuvo que haber generado al momento de descargar xampp, para llegar a esa carpeta enteramos a disco local después a la carpeta de xampp que se encuentra ahí, cuando entremos nos encontremos en la carpeta veremos bastantes carpetas sin embargo la más importante para esta instalación es la carpeta nombrada htdocs en donde descomprimiremos el archivo .ZIP y nos generadora una carpeta la cual contiene todos los archivos necesarios para visualizar el proyecto y también se encuentra la base de datos necesaria para hacer registros  
 
