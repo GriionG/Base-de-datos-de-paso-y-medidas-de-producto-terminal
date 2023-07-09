@@ -16,7 +16,7 @@ Instalación
 
 ![Htdocs](https://media.discordapp.net/attachments/876615087119548417/1127631136420540456/htdocs.png)
 
-![Htdocs](https://media.discordapp.net/attachments/876615087119548417/1127631136420540456/.png)
+![Htdocs](https://cdn.discordapp.com/attachments/876615087119548417/1127638145282867270/Extraer.png)
 
 3. Abriremos el programa de XAMPP y prenderemos los puertos de Apache y MySQL para poder entrar a nuestro **localhost**
 
